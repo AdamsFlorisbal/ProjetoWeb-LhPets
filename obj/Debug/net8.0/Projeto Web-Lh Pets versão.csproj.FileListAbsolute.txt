@@ -1,0 +1,6 @@
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.csproj.AssemblyReference.cache
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.AssemblyInfoInputs.cache
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.AssemblyInfo.cs
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.csproj.CoreCompileInputs.cache
+C:\Users\adams\Desktop\Projeto Web-Lh Pets versão\obj\Debug\net8.0\Projeto Web-Lh Pets versão.MvcApplicationPartsAssemblyInfo.cache
